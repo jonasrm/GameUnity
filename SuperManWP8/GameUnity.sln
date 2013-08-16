@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnity", "GameUnity\GameUnity.csproj", "{B3620FCF-F0DB-457F-8BE2-727438E2A72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Master|ARM = Master|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Debug|ARM.Build.0 = Debug|ARM
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Master|ARM.ActiveCfg = Master|ARM
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Master|ARM.Build.0 = Master|ARM
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Master|ARM.Deploy.0 = Master|ARM
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Release|ARM.ActiveCfg = Release|ARM
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Release|ARM.Build.0 = Release|ARM
+		{B3620FCF-F0DB-457F-8BE2-727438E2A72C}.Release|ARM.Deploy.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
